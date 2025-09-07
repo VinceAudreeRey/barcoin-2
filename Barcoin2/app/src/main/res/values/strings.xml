@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcoin</string>
+    <string name="sign_in_subtitle"><u>Sign in to continue</u></string>
+    <string name="register_link"><u>Register</u></string>
+</resources>
